@@ -23,7 +23,7 @@
 | :-------------: | :-------------: | 
 | ![](/icone/Fritzing.png) | ![](/icone/Circuits.io.png) |
 
-![]()
+![](/fritzing/fritzing_gps.png)
 
 ### Analogique
 * A0: NC
