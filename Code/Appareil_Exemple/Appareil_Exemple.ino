@@ -5,7 +5,7 @@
    Il nécessite l’utilisation de SoftwareSerial et suppose que vous avez un
    Un périphérique GPS série à 9600 bauds raccordé aux broches 2 (rx) et 3 (tx).
 */
-static const int RXPin = 2, TXPin = 3;
+static const int RXPin = A10, TXPin = A11;
 static const uint32_t GPSBaud = 9600;
 
 // L'objet TinyGPS ++
